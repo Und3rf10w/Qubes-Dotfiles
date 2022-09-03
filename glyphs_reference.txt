@@ -1,0 +1,12 @@
+ - memory
+ - Battery discharging
+ - thermometer 1
+ - thermometer 2
+ - thermometer 3
+ - close
+ - disk
+ - cube
+ - bolt
+ﰇ - reboot
+ - logout
+ - lock
