@@ -16,4 +16,4 @@ zstyle ':prezto:module:prompt' theme 'powerlevel10k'
 6. Review `.config/i3/config` for my keybinds
 
 # Requirements
-You should already have rofi, polybar, i3-gaps
+You should already have rofi, polybar, i3-gaps, i3-lock, xfce4-screenshooter
